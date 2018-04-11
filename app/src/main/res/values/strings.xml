@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sinode GMIT</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="featuredimages">FeaturedImages</string>
+    <string name="thumbimage">ThumbImage</string>
+    <string name="text_nama">Sinode GMIT</string>
+    <string name="content_desc_logo">Sinode Logo</string>
+    <string name="app_label">Pencarian</string>
+    <string name="search_hint">Judul Post</string>
+    <string name="aboutUs"><![CDATA[Aplikasi Sinode Mobile merupakan versi Android dari situs resmi Sinode GMIT http://sinodegmit.or.id. Aplikasi ini mendukung pengguna ponsel pintar Android mulai dari versi API 17 hingga API 26.
+        \n\nSedangkan untuk jenis ponsel pintar dengan versi terbaru API 27, belum dapat dikeluarkan saat ini (Maret 2018). Aplikasi ini tidak mendukung ponsel pintar Android dengan versi dibawah dari API 17. Jika pengguna yang budiman memiliki ponsel pintar yang tidak dapat menggunakan aplikasi ini, dapat langsung menghubungi bagian Kominfo GMIT untuk dicarikan jalan keluarnya.
+        \n\n[Penting]Mengenai iklan-iklan yang muncul dalam aplikasi ini, dihasilkan secara otomatis dan dikelola secara langsung oleh Google (Admob) yang mana semua konten iklan diluar dari tanggung jawab Kominfo GMIT dan Pengembang. Jika terdapat iklan yang menurut pengguna melanggar peraturan atau norma yang berlaku, silahkan menghubungi bagian Kominfo GMIT untuk nanti diteruskan kepada pihak penyedia iklan untuk diperhatikan.
+        \n\nKemudian penyertaan iklan ke dalam aplikasi seperti yang termaksud diatas, adalah upaya Kominfo GMIT untuk secara mandiri mengelola pendapatan yang nantinya akan digunakan untuk membiayai kelangsungan hidup situs resmi sinodegmit.or.id serta aplikasi Sinode Mobile agar penyebaran berita sukacita dapat dinikmati secara luas, mudah dan efisien oleh masyarakat.
+        \n\nPerlu diperhatikan bahwa Aplikasi Sinode Mobile ini disediakan secara GRATIS, dan bisa didapatkan di PlayStore.]]></string>
+    <string name="find_us">Ikuti Kami</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="gmail">Gmail</string>
+    <string name="beranda">Beranda</string>
+    <string name="kategori">Kategori</string>
+    <string name="tentang">Tentang</string>
+    <string name="cari">Cari</string>
+    <string name="video">Video</string>
+    <string name="suara_gembala">Suara Gembala</string>
+    <string name="liturgi">Liturgi</string>
+    <string name="khotbah_minggu">Khotbah Minggu</string>
+    <string name="download">Download</string>
+    <string name="berita_hari_ini">Berita Hari Ini</string>
+    <string name="bahan_pa">Bahan PA</string>
+    <string name="bacaan_setahun">Bacaan Setahun</string>
+    <string name="artikel">Artikel</string>
+    <string name="antara_kita">Antara Kita</string>
+    <string name="action_search">Cari</string>
+    <string name="load_more">Load More</string>
+    <string name="pencarian">Hasil Pencarian</string>
+
+</resources>
